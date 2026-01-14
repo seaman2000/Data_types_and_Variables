@@ -1,9 +1,6 @@
 # 🐍 Data types and Variables
-This repo is about practice different Data types and Variables
-![Python](https://img.shields.io/badge/language-Python-blue?style=flat-square)
-
-
-Inspired by the [Zen of Python](https://peps.python.org/pep-0020/) 🐍
+### This repo is about practice different Data types and Variables
+### *[Zen of Python](https://peps.python.org/pep-0020/)* 🎍
 
 ---
 
